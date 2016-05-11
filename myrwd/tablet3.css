@@ -30,7 +30,7 @@
             float: left}
         header {
             height: 400px;
-            background-image: url(/images/wallpaper.jpg);
+            background-image: url(images/wallpaper.jpg);
             background-size: cover;
             background-position: bottom;}
         #about {
